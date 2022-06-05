@@ -1,0 +1,13 @@
+<html>
+
+<head>
+  <title>Discord redirect</title>
+</head>
+
+<body>
+  <script>
+    window.location.replace("https://discord.gg/TdH39Q3BWw");
+  </script>
+</body>
+
+</html>
